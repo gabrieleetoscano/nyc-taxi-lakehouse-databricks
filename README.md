@@ -19,4 +19,4 @@ NYC TLC Trip Record Data (Kaggle): [link here]
 - `docs/` text snippets for Google Sites + extra notes
 
 ## Status
-🚧 In progress
+✅ Catalog + Bronze/Silver/Gold schemas created
