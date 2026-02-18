@@ -1,4 +1,4 @@
-# NYC Taxi Lakehouse on Databricks (Free)
+# NYC Taxi Lakehouse on Databricks
 
 ## Goal
 Build an end-to-end Data Engineering project on Databricks Free using the Medallion Architecture (Bronze/Silver/Gold) and Delta tables.
