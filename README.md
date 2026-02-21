@@ -22,3 +22,5 @@ NYC TLC Trip Record Data (Kaggle): [link here]
 ✅ Catalog + Bronze/Silver/Gold schemas created
 
 ✅ Bronze created: taxi_lakehouse.bronze.yellow_taxi_q1_2023
+
+✅ Bronze validated (row count, schema, lineage)
